@@ -1,2 +1,1 @@
-# poker-straigwtflush
--> README
+This is a short, optimized version of a unity projekt used to proof statistical probabilities in Poker. It was created for a math presentation, during which I proofed the probability of a drawing a straightflush when playing by yourself. Since the probability is really small (approximately 0.0279%) humans could never play enough rounds, hence the simulation. 
