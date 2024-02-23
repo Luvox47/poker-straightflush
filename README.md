@@ -8,9 +8,7 @@ During a math presentation, the objective was to illustrate the rarity of certai
 
 ### Features
 
-- C# script optimized for efficient computation and terminal output.
-- Provides insights into the statistical probabilities of Poker hands.
-- Enables users to comprehend rare events like drawing a straight flush through calculation and simulation.
+- Semi efficient C# script that simulates many, many rounds of poker to show that {\displaystyle {9 \choose 1}{4 \choose 1}{46 \choose 2}} is in fact correct. 
 
 ### Usage
 
