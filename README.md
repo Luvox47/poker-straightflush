@@ -16,7 +16,7 @@ During a math presentation, the objective was to illustrate the rarity of certai
 
 1. Clone or download the repository.
 2. Ensure you have a C# compiler installed on your system.
-3. Open a terminal or command prompt and navigate to the directory containing the script (`PokerProbability.cs`).
+3. Open a terminal or command prompt and navigate to the directory containing the script (`straightflush.cs`).
 4. Compile the script using the following command:
 
    ```bash
