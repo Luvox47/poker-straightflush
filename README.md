@@ -32,7 +32,3 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust or expand upon this README to better suit the specifics of your project!
